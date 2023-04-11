@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Hôn Nhân Công Giáo</string>
+
+    <string-array name="stories_names">
+        <item>Bài 1 : Ơn gọi hôn nhân trong chương trình của Thiên Chúa</item>
+        <item>Bài 2 : Hôn nhân Công Giáo</item>
+        <item>Bài 3: Giáo luật về Hôn nhân</item>
+        <item>Bài 4 : Hôn nhân khác tôn giáo</item>
+        <item>Bài 5 : Các thủ tục và nghi lễ Hôn phối</item>
+        <item>Bài 6 : Sống thời kỳ đính hôn</item>
+        <item>Bài 7 : Tình yêu vợ chồng</item>
+        <item>Bài 8 : Tính dục và hôn nhân</item>
+        <item>Bài 9 : Hòa hợp vợ chồng : Sự khác biệt giữa nam và nữ</item>
+        <item>Bài 10 : Hòa hợp vợ chồng: Triển nở trong tình yêu</item>
+        <item>Bài 11: Hòa hợp vợ chồng : Giải quyết những xung đột</item>
+        <item>Bài 12: Sự phân ly vợ chồng</item>
+        <item>Bài 13: Gia đình là Hội Thánh tại gia</item>
+        <item>Bài 14 : Linh đạo hôn nhân và gia đình</item>
+        <item>Bài 15 : Các bí tích trong đời sống Hôn Nhân và gia đình</item>
+        <item>Bài 16 : Cầu nguyện trong gia đình</item>
+        <item>Bài 17: Sinh con có trách nhiệm</item>
+        <item>Bài 18 : Giáo dục con cái</item>
+        <item>Bài 19 : Đạo hiếu</item>
+        <item>Bài 20: Những nghi lễ của gia đình</item>
+    </string-array>
+
+    <string-array name="stories_du_tong">
+        <item> Hướng Dẫn Sử Dụng Sách Giáo Lý Dự Tòng </item>
+        <item> Bài mở đầu : Tìm kiếm Thiên Chúa </item>
+        <item> Bài 1 : Nhận Biết Thiên Chúa </item>
+        <item> Bài 2 : Thiên Chúa Mặc Khải </item>
+        <item> Bài 3 : Thiên Chúa Tạo Dựng </item>
+        <item> Bài 4 : Con Người Sa Ngã </item>
+        <item> Bài 5 : Thiên Chúa Làm Người </item>
+        <item> Bài 6 : Tin Mừng Nước Trời </item>
+        <item> Bài 7 : Chúa Giêsu Cứu Độ Nhân Loại </item>
+        <item> Bài 8 : Chúa Giêsu Ban Thánh Thần </item>
+        <item> Bài 9 : Mầu Nhiệm Chúa Ba Ngôi </item>
+        <item> Bài 10 : Hội Thánh Truyền Giáo </item>
+        <item> Bài 11 : Giáo Hội Việt Nam </item>
+        <item> Bài 12 : Phụng Vụ và Bí Tích </item>
+        <item> Bài 13 : Bí Tích Thánh Tẩy </item>
+        <item> Bài 14 : Bí Tích Thêm Sức </item>
+        <item> Bài 15 : Bí Tích Thánh Thể </item>
+        <item> Bài 16 : Thánh Lễ Tạ Ơn </item>
+        <item> Bài 17 : Lương Tâm Và Tội Lỗi </item>
+        <item> Bài 18 : Bí Tích Hòa Giải </item>
+        <item> Bài 19 : Xức Dầu Bệnh Nhân </item>
+        <item> Bài 20 : Bí Tích Truyền Chức </item>
+        <item> Bài 21 : Bí Tích Hôn Phối </item>
+        <item> BÀI 22 : Mến Chúa Trên Hết </item>
+        <item> BÀI 23 : Yêu Người Như Chính Mình </item>
+        <item> BÀI 24 : Cầu Nguyện </item>
+    </string-array>
+
+
+</resources>
